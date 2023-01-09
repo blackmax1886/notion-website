@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.blackmax1886',
+  name: 'blackmax tech blog',
+  domain: 'blackmax-sixevo-blog',
   author: 'blackmax1886',
 
   // open graph metadata (optional)
