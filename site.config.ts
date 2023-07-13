@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'blackmax tech blog',
-  domain: 'blackmax-sixevo-blog',
+  domain: 'blackmax-blog',
   author: 'blackmax1886',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'blackmax8888',
+  // twitter: 'blackmax8888',
   github: 'blackmax1886',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
